@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidMvp</string>
+    <string name="empty_username">Empty Username</string>
+    <string name="empty_password_error">Password Is Empty</string>
+</resources>
